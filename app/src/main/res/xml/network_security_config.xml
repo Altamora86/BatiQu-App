@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">https://flask-app-mrd65lqryq-et.a.run.app/upload</domain>
+    </domain-config>
+</network-security-config>
